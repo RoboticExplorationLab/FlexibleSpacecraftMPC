@@ -1,5 +1,3 @@
-% set me up cuh 
-
 clear
 
 % inertia matrix
